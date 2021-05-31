@@ -82,7 +82,7 @@ html, body {
   color: var(--bs-teal); }
 
 footer a:not(.nav-link) {
-  color: black;
+  color: absolute;
   border-bottom: 1px dashed;
   text-decoration: none;
   cursor: pointer; }
